@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category  German
+ * @package   German_LocalePack
+ * @authors   MaWoScha <mawoscha@siempro.co, http://www.siempro.co/>
+ * @developer MaWoScha <mawoscha@siempro.co, http://www.siempro.co/>
+ * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+ -->
+<config>
+    <modules>
+        <German_LocalePackGb>
+            <version>0.1.0</version>
+            <locale>en_GB</locale>
+            <title>English (Great Britain) Language Pack</title>
+            <link_git>https://github.com/MaWoScha/German_LocalePack_en_GB</link_git>
+            <link_mage></link_mage>
+        </German_LocalePackGb>
+    </modules>
+
+    <global>
+        <models>
+            <localepackgb>
+                <class>German_LocalePackGb_Model</class>
+            </localepackgb>
+        </models>
+        <helpers>
+            <localepackgb>
+                <class>German_LocalePackGb_Helper</class>
+            </localepackgb>
+        </helpers>
+        <blocks>
+            <localepackgb>
+                <class>German_LocalePackGb_Block</class>
+            </localepackgb>
+        </blocks>
+        <events>
+            <adminhtml_controller_action_predispatch_start>
+                <observers>
+                    <localepackgb>
+                        <class>localepackgb/observer</class>
+                        <method>adminhtmlControllerActionPredispatchStart</method>
+                    </localepackgb>
+                </observers>
+            </adminhtml_controller_action_predispatch_start>
+        </events>
+    </global>
+	
+    <default>
+        <localepackgb>
+             <notification>
+                <url>https://github.com/MaWoScha/German_LocalePack_en_GB</url>
+            </notification>
+        </localepackgb>
+        <magesetup>
+            <default_country>GB</default_country>
+        </magesetup>
+    </default>
+
+    <adminhtml>
+        <layout>
+            <updates>
+                <localepackgb>
+                    <files>
+                    	<default>localepackgb.xml</default>
+                    </files>
+                </localepackgb>
+            </updates>
+        </layout>
+        <translate>
+            <modules>
+                <German_LocalePackGb>
+                    <files>
+                        <localepackgb>German_LocaleGb.csv</localepackgb>
+                        <default>German_LocaleEn.csv</default>
+                    </files>
+                </German_LocalePackGb>
+            </modules>
+        </translate>
+        <acl>
+            <resources>
+                <all>
+                    <title>Allow Everything</title>
+                </all>
+                <admin>
+                    <children>
+                        <system>
+                            <children>
+                                <config>
+                                    <children> <!--
+                                        <localepacks translate="title" module="localepackgb">
+                                            <title>Language Packs</title>
+                                    		<children> -->
+                                        		<localepackgb translate="title" module="localepackgb">
+                                            		<title>English (Great Britain) Language Pack</title>
+                                        		</localepackgb> <!--
+                                    		</children>
+                                        </localepacks> -->
+                                    </children>
+                                </config>
+                            </children>
+                        </system>
+                    </children>
+                </admin>
+            </resources>
+        </acl>
+    </adminhtml>
+
+</config>

@@ -1,0 +1,30 @@
+{
+  "name": "mawoscha/german-localepack-en-gb",
+  "type": "magento-module",
+  "license":"OSL-3.0",
+  "description":"English (Great Britain) Community Translation",
+  "authors":[
+    {
+      "name":"MaWoScha"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "extra": {
+    "magento-root-dir": "./",
+    "magento-deploystrategy": "copy",
+    "map": [
+      ["./app/code/community/German/LocalePackGb", "./app/code/community/German/LocalePackGb"],
+      ["./app/etc/modules/German_LocalePackGb.xml", "./app/etc/modules/German_LocalePackGb.xml"],
+      ["./app/locale/de_DE/German_LocaleGb.csv", "./app/locale/de_DE/German_LocaleGb.csv"],
+      ["./app/locale/en_GB/German_LocaleGb.csv", "./app/locale/en_GB/German_LocaleGb.csv"],
+      ["./app/locale/en_US/German_LocaleGb.csv", "./app/locale/en_US/German_LocaleGb.csv"],
+      ["./app/locale/es_ES/German_LocaleGb.csv", "./app/locale/es_ES/German_LocaleGb.csv"],
+      ["./app/locale/fr_FR/German_LocaleGb.csv", "./app/locale/fr_FR/German_LocaleGb.csv"]
+    ]
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
