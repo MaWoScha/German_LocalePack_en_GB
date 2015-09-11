@@ -1,0 +1,7 @@
+"Backup file ""%s"" can't read or write","Backup file ""%s"" can not read or write"
+"Backup file ""%s"" doesn't exist","Backup file ""%s"" does not exist"
+"Backup file doesn't exist","Backup file does not exist"
+"Backup file handler don't specify","Backup file handler do not specify"
+"Backup file path don't specify","Backup file path do not specify"
+"Cannot read backup file","Unable to read backup file"
+"Unable to create backup. Please, try again later.","Unable to create backup. Please try again later."
