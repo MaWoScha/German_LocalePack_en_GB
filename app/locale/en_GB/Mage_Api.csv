@@ -1,7 +1,7 @@
 "(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)","(Products will be added/updated to this shop if 'shop' column is blank or missing in the import file.)"
 "Add new store view map","Add new shop view map"
 "Catalog","Catalogue"
-"Choose Store View","Choose Shop View"
+"Choose Store View","Select Shop View"
 "Create New Staging Store View","Create New Staging Shop View"
 "Excl. Tax","Excl. VAT"
 "Incl. Tax","Incl. VAT"

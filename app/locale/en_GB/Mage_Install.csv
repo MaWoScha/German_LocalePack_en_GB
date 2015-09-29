@@ -1,4 +1,6 @@
 "Before you continue to your store, please make a note of your encryption key (Magento uses it to encrypt passwords, credit cards and more).","Before you continue to your shop, please make a note of your encryption key (Magento uses it to encrypt passwords, credit cards and more)."
+"Choose this if you would like to test frontend and backend functionality.","Select this if you would like to test frontend and backend functionality."
+"If you are a developer and would like to have the latest public updates, choose this option.","If you are a developer and would like to have the latest public updates, select this option."
 "If you are running install wizard over previously downloaded and installed Magento installation, proceed with this method.","If you are running the install wizard over a previously downloaded and installed Magento installation, proceed with this method."
 "Localization","Localisation"
 "This Url is invalid","This URL is invalid"
