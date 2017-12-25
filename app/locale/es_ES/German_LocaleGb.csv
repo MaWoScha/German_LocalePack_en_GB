@@ -1,4 +1,4 @@
-"Language Packs","Paquetes de idioma"
+"Language Packs","Paquetes de Idioma"
 "Attention: Your Locale Pack doesn\'t match your Magento Version. <a href='%s'>Get more information here.</a>","Atención: Su paquete de idioma no coincide con la versión de Magento. Obtenga más información <a href='%s'>aquí</a>."
 "Great Britain","Gran Bretaña"
 "English (Great Britain)","Inglés (Gran Bretaña)"
@@ -21,6 +21,7 @@
 "The installed language pack only provides translations of in Magento existing texts. If you want to prepare your Magento store on the legal requirements in %s or expand common payment methods, we recommend to install the following additional extensions.","El paquete de idioma instalado sólo ofrece traducciones de los textos existentes en Magento. Si desea preparar su tienda Magento en los requisitos legales en %s o ampliar los métodos de pago comunes, entonces le recomendamos que instale las siguientes extensiones adicionales."
 "Specific market adjustment for","Ajustes al mercado específico de"
 "English and British stores","las tiendas inglesas y británicas"
+"Preconfigured for the British market","Preconfigurada para el mercado británico"
 "Currently not available","Actualmente no disponible"
 "Note: Install the extension %s, so you can use %s as a <a href='%s'>fallback language</a>.","<b>Nota:</b> Instale la extensión %s, para que pueda utilizar <span style='color:red; font-weight:bold;'>%s</span> como <a href='%s'>idioma de segunda opción</a>."
 "Note: Install the language package %s to use it as a <a href='%s'>fallback language</a>.","<b>Nota:</b> Instale el paquete de idioma %s, para usarlo como <a href='%s'>idioma de segunda opción</a>."

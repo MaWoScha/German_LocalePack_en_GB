@@ -21,6 +21,7 @@
 "The installed language pack only provides translations of in Magento existing texts. If you want to prepare your Magento store on the legal requirements in %s or expand common payment methods, we recommend to install the following additional extensions.","The installed language pack only provides translations of in Magento existing texts. If you want to prepare your Magento store on the legal requirements in %s or expand common payment methods, we recommend to install the following additional extensions."
 "Specific market adjustment for","Specific market adjustment for"
 "English and British stores","English and British stores"
+"Preconfigured for the British market","Preconfigured for the British market"
 "Currently not available","Currently not available"
 "Note: Install the extension %s, so you can use %s as a <a href='%s'>fallback language</a>.","<b>Note:</b> Install the extension %s, so you can use <span style='color:red; font-weight:bold;'>%s</span> as a <a href='%s'>fallback language</a>."
 "Note: Install the language package %s to use it as a <a href='%s'>fallback language</a>.","<b>Note:</b> Install the language package %s to use it as a <a href='%s'>fallback language</a>."

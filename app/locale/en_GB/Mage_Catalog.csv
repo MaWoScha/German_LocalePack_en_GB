@@ -2,6 +2,7 @@
 "Add Items to Cart","Add Items to Basket"
 "Add Tax","Add VAT"
 "Add to Cart","Add to Basket"
+"Attribute names can be specified per store.","Attribute names can be specified per shop."
 "Attrribute names can be specified per store.","Attribute names can be specified per shop."
 "Buy %1$s for %2$s (%3$s incl. tax) each","Buy %1$s for %2$s (%3$s incl. VAT) each"
 "Can be used only with catalog input type Dropdown","Can be used only with catalogue input type Dropdown"

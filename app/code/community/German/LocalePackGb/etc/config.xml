@@ -11,7 +11,7 @@
 <config>
     <modules>
         <German_LocalePackGb>
-            <version>0.4.0</version>
+            <version>0.4.1</version>
             <locale>en_GB</locale>
             <title>English (Great Britain) Language Pack</title>
             <link_git>https://github.com/MaWoScha/German_LocalePack_en_GB</link_git>
@@ -63,7 +63,7 @@
             <updates>
                 <localepackgb>
                     <files>
-                    	<default>localepackgb.xml</default>
+                        <default>localepackgb.xml</default>
                     </files>
                 </localepackgb>
             </updates>
