@@ -2,6 +2,7 @@
 "Add Items to Cart","Add Items to Basket"
 "Add Tax","Add VAT"
 "Add to Cart","Add to Basket"
+"Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter. Do not use event"" for an attribute code.""","Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter. Do not use ""event"" for an attribute code."
 "Attribute names can be specified per store.","Attribute names can be specified per shop."
 "Attrribute names can be specified per store.","Attribute names can be specified per shop."
 "Buy %1$s for %2$s (%3$s incl. tax) each","Buy %1$s for %2$s (%3$s incl. VAT) each"

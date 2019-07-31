@@ -1,2 +1,3 @@
+". Do not use event"" for an attribute code, it is a reserved keyword.""",". Do not use ""event"" for an attribute code, it is a reserved keyword."
 "Entity is not initialized","Entity is not initialised"
 "Invalid store specified","Invalid shop specified"

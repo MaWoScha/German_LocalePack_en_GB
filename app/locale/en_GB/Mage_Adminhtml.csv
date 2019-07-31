@@ -1,5 +1,6 @@
 " The customer doesn't exist in the system anymore"," The customer does not exist in the system anymore"
 "(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)","(Products will be added/updated to this shop if 'shop' column is blank or missing in the import file.)"
+"A user with the same user name or email aleady exists.","A user with the same user name or email already exists."
 "Add new store view map","Add new shop view map"
 "Add New Urlrewrite","Add New URL rewrite"
 "All Store Views","All Shop Views"

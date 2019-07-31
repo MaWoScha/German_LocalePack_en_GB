@@ -20,6 +20,7 @@
 "Manage Stores","Manage Shops"
 "New Store","New Shop"
 "New Store View","New Shop View"
+"Please do not use event"" for an attribute code.""","Please do not use ""event"" for an attribute code."
 "Please enter a valid $ amount. For example $100.00.","Please enter a valid £ amount. For example £100.00."
 "Please enter a valid email address. For example johndoe@domain.com.","Please enter a valid email address. For example johndoe@example.uk."
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example 01234 567890, (123) 456-7890 or 123-456-7890."
